@@ -1,8 +1,8 @@
-
+import styles from './styles.module.css'
 
 function Pokemon ({name}){
     return (
-        <h2>Nome do Pokemon: {name || 'Pikachu'} </h2>
+        <h2 className={styles.name}>{name || 'Pikachu'} </h2>
     )
 }
 

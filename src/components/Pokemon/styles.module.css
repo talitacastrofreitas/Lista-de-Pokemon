@@ -1,0 +1,16 @@
+.name{
+    background-color:yellow;
+    margin: 15px auto;
+    width: 240px;
+    text-align: center;
+    border-radius: 6px;
+    text-transform: uppercase;
+    font-size: 24px;
+    cursor:pointer;
+}
+.name:hover{
+    background-color: #e0dddd;
+
+    color: red;
+    transition: 0.3s;
+}

@@ -1,0 +1,27 @@
+.container{
+    background-color:#FFF;
+    width: 20%;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 15px;
+    margin-top:40px;
+    color: black;
+}
+
+.img{
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.titulos{
+    color: #FFF;
+    text-align: center;
+}
+.titulos h1{
+    color: black;
+    background-color: #FFFF;
+    font-weight: 1500;
+}
+.titulos p{
+    font-weight: 500;
+}
