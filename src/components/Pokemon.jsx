@@ -1,6 +1,6 @@
-function Pokemon ({text}){
-    return(
-        <h2>Nome do Pokemon: {text}</h2>
+function Pokemon ({name}){
+    return (
+        <h2>Nome do Pokemon: {name || 'Pikachu'} </h2>
     )
 }
 
